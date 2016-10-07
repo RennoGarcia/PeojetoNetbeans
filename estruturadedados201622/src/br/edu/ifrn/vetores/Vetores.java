@@ -33,7 +33,8 @@ public class Vetores {
         }
         
         for (int x = 0; x < vetorInt.length; x++) {
-            System.out.println(vetorInt[x]);
+            System.out.println("Posição" + vetorInt[x]);
+            
         }
     }     
 }
